@@ -2,5 +2,9 @@
   "dependencies": {
     "astro": "^5.4.1",
     "express": "^4.21.2"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "build": "astro build"
   }
 }
