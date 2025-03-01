@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "astro": "^5.4.1"
+    "astro": "^5.4.1",
+    "express": "^4.21.2"
   }
 }
